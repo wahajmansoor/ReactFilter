@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactFilter/static/css/main.261515a5.chunk.css",
+    "main.js": "/ReactFilter/static/js/main.a2b026ee.chunk.js",
+    "main.js.map": "/ReactFilter/static/js/main.a2b026ee.chunk.js.map",
+    "runtime-main.js": "/ReactFilter/static/js/runtime-main.f67f5b23.js",
+    "runtime-main.js.map": "/ReactFilter/static/js/runtime-main.f67f5b23.js.map",
+    "static/js/2.1380f370.chunk.js": "/ReactFilter/static/js/2.1380f370.chunk.js",
+    "static/js/2.1380f370.chunk.js.map": "/ReactFilter/static/js/2.1380f370.chunk.js.map",
+    "index.html": "/ReactFilter/index.html",
+    "static/css/main.261515a5.chunk.css.map": "/ReactFilter/static/css/main.261515a5.chunk.css.map",
+    "static/js/2.1380f370.chunk.js.LICENSE.txt": "/ReactFilter/static/js/2.1380f370.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67f5b23.js",
+    "static/js/2.1380f370.chunk.js",
+    "static/css/main.261515a5.chunk.css",
+    "static/js/main.a2b026ee.chunk.js"
+  ]
+}
