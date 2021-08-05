@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "/images/chola.jpg",
+      image: "images/chola.jpg",
       name: "chola",
       category: "lunch",
       price: "50Rs",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "/images/pizza.jpg",
+      image: "images/pizza.jpg",
       name: "pizza",
       category: "evening",
       price: "80Rs",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "/images/nonvegthali.jpg",
+      image: "images/nonvegthali.jpg",
       name: "Non-Veg Thali",
       category: "dinner",
       price: "180Rs",
@@ -56,7 +56,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "/images/sweet.jpg",
+      image: "images/sweet.jpg",
       name: "Sweets",
       category: "dinner",
       price: "60Rs",
@@ -65,7 +65,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "/images/rajmarice.jpg",
+      image: "images/rajmarice.jpg",
       name: "Biryani",
       category: "lunch",
       price: "60Rs",
@@ -74,7 +74,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "/images/samosa.jpg",
+      image: "images/samosa.jpg",
       name: "Samaso",
       category: "evening",
       price: "10Rs",
@@ -83,7 +83,7 @@ const Menu = [
     },
     {
       id: 10,
-      image: "/images/pepsi.jpg",
+      image: "images/pepsi.jpg",
       name: "Pepsi",
       category: "mood",
       price: "20Rs",
