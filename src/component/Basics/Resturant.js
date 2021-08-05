@@ -18,7 +18,8 @@ const uniqueList = [
 const Resturant = () => {
 
     const [menuData, setMenuData] = useState(Menu);
-    const [menuList, setMenuList] = useState(uniqueList);
+    const [menuList] = useState(uniqueList);
+    // eslint-disable-next-line
 
     const filterItem = (category) => {
 
